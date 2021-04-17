@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1567478758 source:c:\users\lauti\desktop\tp-laboratorio_1\tp-laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1567478262 source:c:\users\lauti\desktop\tp-laboratorio_1\tp-laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567477282 c:\users\lauti\desktop\tp-laboratorio_1\tp-laboratorio_1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1567821247 source:c:\users\lauti\desktop\tp-laboratorio-1\tp_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567821053 source:c:\users\lauti\desktop\tp-laboratorio-1\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567821575 c:\users\lauti\desktop\tp-laboratorio-1\tp_laboratorio_1\funciones.h
+
+1567779929 source:c:\users\alumno\desktop\tp_laboratorio_1-master\tp_laboratorio_1-master\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567779997 c:\users\alumno\desktop\tp_laboratorio_1-master\tp_laboratorio_1-master\funciones.h
+
+1567779568 source:c:\users\alumno\desktop\tp_laboratorio_1-master\tp_laboratorio_1-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1598971600 source:c:\users\lauti\desktop\tp_laboratorio_1-master\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1598973895 c:\users\lauti\desktop\tp_laboratorio_1-master\funciones.h
+
+1599697855 source:c:\users\lauti\desktop\tp_laboratorio_1-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1598971600 source:c:\users\lauti\desktop\tp_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1598973895 c:\users\lauti\desktop\tp_laboratorio_1\funciones.h
+
+1599697855 source:c:\users\lauti\desktop\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1616970587 source:c:\users\lauti\onedrive\escritorio\tp_laboratorio_1-master\tp_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1616969596 c:\users\lauti\onedrive\escritorio\tp_laboratorio_1-master\tp_laboratorio_1\funciones.h
+
+1616969645 source:c:\users\lauti\onedrive\escritorio\tp_laboratorio_1-master\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1616970587 source:c:\users\lauti\onedrive\escritorio\tp_laboratorio_1-master\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1616969596 c:\users\lauti\onedrive\escritorio\tp_laboratorio_1-master\tp1\funciones.h
+
+1618617660 source:c:\users\lauti\onedrive\escritorio\tp_laboratorio_1-master\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
