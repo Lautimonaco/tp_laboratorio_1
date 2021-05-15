@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1570204282 source:c:\users\lauti\desktop\programacion-laboratorio-1-master\tp2\arrayemployees.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"FuncionesGet.h"
+
+1570204019 c:\users\lauti\desktop\programacion-laboratorio-1-master\tp2\arrayemployees.h
+
+1570202906 c:\users\lauti\desktop\programacion-laboratorio-1-master\tp2\funcionesget.h
+
+1570204033 source:c:\users\lauti\desktop\programacion-laboratorio-1-master\tp2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"FuncionesGet.h"
+
+1570203440 source:c:\users\lauti\desktop\programacion-laboratorio-1-master\tp2\funcionesget.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"FuncionesGet.h"
+
+1600737256 source:c:\users\lauti\desktop\programacion 2020\tp2_laboratorio-master\tp2\arrayemployees.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"FuncionesGet.h"
+
+1570204523 c:\users\lauti\desktop\programacion 2020\tp2_laboratorio-master\tp2\arrayemployees.h
+
+1570204523 c:\users\lauti\desktop\programacion 2020\tp2_laboratorio-master\tp2\funcionesget.h
+
+1570204523 source:c:\users\lauti\desktop\programacion 2020\tp2_laboratorio-master\tp2\funcionesget.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"FuncionesGet.h"
+
+1600825474 source:c:\users\lauti\desktop\programacion 2020\tp2_laboratorio-master\tp2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"FuncionesGet.h"
+
+1600737256 source:c:\users\lauti\desktop\programacion 2020\tp_laboratorio_2\tp2\arrayemployees.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"FuncionesGet.h"
+
+1570204523 c:\users\lauti\desktop\programacion 2020\tp_laboratorio_2\tp2\arrayemployees.h
+
+1570204523 c:\users\lauti\desktop\programacion 2020\tp_laboratorio_2\tp2\funcionesget.h
+
+1570204523 source:c:\users\lauti\desktop\programacion 2020\tp_laboratorio_2\tp2\funcionesget.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"FuncionesGet.h"
+
+1601250187 source:c:\users\lauti\desktop\programacion 2020\tp_laboratorio_2\tp2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"FuncionesGet.h"
+
